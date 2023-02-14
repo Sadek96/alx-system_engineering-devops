@@ -1,1 +1,1 @@
-#!/bin/bash                                                                                                                                             ttail -n 1 < iacta >> iatca
+#!/bin/bash                                                                     tail -n 1 < iacta >> iacta
